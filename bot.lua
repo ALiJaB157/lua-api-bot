@@ -6,8 +6,8 @@ JSON = require('dkjson')
 HTTPS = require('ssl.https')
 ----config----
 local bot_api_key = ""
-local BASE_URL = "https://api.telegram.org/bot"..bot_api_key
-local BASE_FOLDER = ""
+local BASE_URL = "https://api.telegram.org/bot211947272:AAHz4A0B5VESZx4AO0WSbdlCjxVORJfHKPM"..bot_api_key
+local BASE_FOLDER = "/workspace/lua-api-bot"
 -------
 
 ----utilites----
